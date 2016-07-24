@@ -1,3 +1,1 @@
-/**
- * Created by Trever on 2016-07-24.
- */
+var greeter = require('./Greeter.js'); document.getElementById('root').appendChild(greeter());
